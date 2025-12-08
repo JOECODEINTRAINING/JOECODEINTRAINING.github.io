@@ -3,9 +3,9 @@ body
 background-color: rgb(225, 63, 22); }
 
 h1
-{font-family: 'Georgia', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+{font-family: Georgia, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: 80px;
-color:'green'}
+color: green;}
 
 h2
 {font-size: 31px;
@@ -13,5 +13,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-weight: bolder;}
 
 
-h3{font-size: 19px}
+h3
+{font-size: 19px; }
+
 
