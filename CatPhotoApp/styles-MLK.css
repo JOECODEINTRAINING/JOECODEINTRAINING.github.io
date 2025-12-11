@@ -1,0 +1,38 @@
+body
+{background-color:purple;
+font-size: 29px;
+text-align: center;
+
+}
+
+#img-div {
+    text-align: center;
+}
+
+
+#image {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#tribute-info, 
+#tribute-link {
+    text-align: center;
+
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+div
+{text-align: center;}
+
+#tribute-link {
+    display: inline-block;
+margin-top: 100px;  text-decoration: none;
+color: #1a73e8;
+    font-weight: bold;
+    text-align: center;
+}
